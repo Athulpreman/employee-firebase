@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">employee firebase</string>
+    <string-array name="district">
+        <item>kannur</item>
+        <item>kazargod</item>
+        <item>kozhikodu</item>
+        <item>thrissur</item>
+        <item>edukki</item>
+    </string-array>
+</resources>
